@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: 7cuts.github.io/pglab
+  baseUrl: 7cuts.github.io/pglab-ebpf-notes
   ignorePatterns:
     - private
     - templates
