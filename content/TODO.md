@@ -10,7 +10,7 @@
 	- [ ] ещё матераилы?
 - [ ] посмотреть программы, которые рулят сетью с помощью фильтров
 	- [ ] [[cillium]]
-	- [ ] [[solutions/bcc|bcc]]
+	- [x] [[solutions/bcc|bcc]]
 	- [ ] [[solutions/bpftrace|bpftrace]]
 	- [ ] ещё?
 ### Обсудить
