@@ -2,9 +2,15 @@
 title: Welcome to my notes!!
 ---
 
-[[TODO]]
+
+[[TODO]], [[Idea]]
 
 # Статьи
-[[ebpf-is-cool]]
 
+
+# Готовые решения
+- [[bcc]]
+- [[bpftrace]]
+- [[pnet]]
+- [[cillium]]
 
