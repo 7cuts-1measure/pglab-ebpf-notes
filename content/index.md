@@ -8,9 +8,7 @@ title: Welcome to my notes!!
 # Статьи
 
 
-# Готовые решения
-- [[bcc]]
-- [[bpftrace]]
-- [[pnet]]
-- [[cillium]]
+
+# [[Готовые решения.base]]
+
 

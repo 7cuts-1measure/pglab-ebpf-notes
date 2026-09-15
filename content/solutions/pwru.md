@@ -1,10 +1,8 @@
----
-title: Packet, where are you?
----
 
 https://github.com/cilium/pwru 
 
 Умеет отслеживать, где  находится пакет
+
 ![[Pasted image 20260915113114.png]]
 
 # Usage
