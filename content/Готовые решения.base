@@ -4,5 +4,6 @@ views:
     filters:
       and:
         - file.folder == "solutions"
+        - file.ext == "md"
     order:
       - file.name
