@@ -1,11 +1,5 @@
 repo: https://github.com/AlexanderWangY/pnet
 
-# README проекта
-
-An eBPF-powered terminal network monitor for Linux. Uses `fexit` hooks on `tcp_sendmsg_locked` and `tcp_cleanup_rbuf` to track per-process TCP traffic, then displays it in an interactive ncurses TUI — similar to `htop` but for network I/O.
-
-Tracks per-process: bytes sent, bytes received, send call count, recv call count
-
 
 # Что умеет
 ## Общая статистика по всем процессам
@@ -19,7 +13,7 @@ Tracks per-process: bytes sent, bytes received, send call count, recv call count
 ```
 
 
-## Детальная статистика
+## Статистика для конкретного PID
 Отображает статистику по каждому процессу и все соединения. (вместо SRC_IP и DST_IP там реальные ip-адреса)
 ```
 pnet                                                                                                Sort: [B] [N] [P]  [Q]uit
